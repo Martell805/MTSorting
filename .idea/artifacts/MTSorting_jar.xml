@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MTSorting:jar">
+    <output-path>$PROJECT_DIR$/../MTSorting_jar</output-path>
+    <root id="archive" name="MTSorting.jar">
+      <element id="module-output" name="MTSorting" />
+    </root>
+  </artifact>
+</component>
